@@ -1,0 +1,17 @@
+{
+    "homepage": [
+        {
+            "id": 1,
+            "name": "nageshwar",
+            "unit": "6",
+            "read": "backend"
+        },
+        null,
+        {
+            "id": 3,
+            "name": "randvide",
+            "class": "12th",
+            "post": "lehra"
+        }
+    ]
+}
